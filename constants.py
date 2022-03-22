@@ -4,4 +4,4 @@
 # Created on March 2022
 # This is file contains constants for another file
 
-TAU = 6.28
+HIDDEN_NUMBER = 3
